@@ -1,6 +1,6 @@
 name: flutter_neat_state
 description: Some utilities to make work with a neat_state package in Flutter more convenient
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/sla-000/flutter_neat_state
 
 environment:
