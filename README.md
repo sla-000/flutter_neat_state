@@ -81,5 +81,6 @@ final StreamSubscription<int> _subscription = context
 
 ## Additional information
 
+- [neat_state](https://pub.dev/packages/neat_state)
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 - [Single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
